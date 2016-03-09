@@ -1,15 +1,5 @@
 # dependencies
-/libs/
 /node_modules/
-
-# build
-/bundles/**
-!/bundles/**.tmpl
-!/bundles/**.html
-!/bundles/**.bemdecl.js
-
-# stuff
-.enb/tmp
 
 ### Node ###
 # Logs

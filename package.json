@@ -9,6 +9,6 @@
     "gulp-concat": "^2.6.0"
   },
   "scripts": {
-    "build": "gulp"
+    "start": "gulp"
   }
 }
