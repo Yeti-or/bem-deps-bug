@@ -1,4 +1,3 @@
 module.exports = {
-    block: 'i-jquery',
-    mods: {version: 'default'}
+    block: 'i-global'
 };
