@@ -6,7 +6,7 @@
   "devDependencies": {
     "@bem/gulp": "https://github.com/Yeti-or/gulp-bem#89d5505f22c58e553eea73d6f3c9bf6289c3f0b6",
     "gulp": "gulpjs/gulp#92a4df2d90a273f1d00c28dd28cf764671cf8c6f",
-    "gulp-concat": "^2.6.0"
+    "gulp-concat": "^2.6.1"
   },
   "scripts": {
     "start": "gulp"
